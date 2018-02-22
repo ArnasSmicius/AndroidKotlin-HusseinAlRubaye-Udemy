@@ -4,9 +4,13 @@ fun main(args: Array<String>) {
 
     if (grade >= 90) {
         println("You are in A level")
-    } else {
-        grade = grade + 10
+    } else if (grade in 80..89) {
+        println("You are in B level")
+    } else if (grade in 70..79) {
+        grade += 10
         println("You've got extra 10 points")
+    } else {
+        println("You failed!!!")
     }
 
 
