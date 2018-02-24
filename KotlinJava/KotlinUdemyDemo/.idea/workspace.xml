@@ -22,18 +22,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncrementAndDecrement.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IncrementAndDecrement.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FindMyAge.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindMyAge.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +92,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MakingDecisionExpression.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MakingDecisionExpression.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MakingDecisionExpression.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleForLoop.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SimpleForLoop.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -152,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/SimpleNestedIf.kt" />
         <option value="$PROJECT_DIR$/src/SImpleWhen.kt" />
         <option value="$PROJECT_DIR$/src/MakingDecisionExpression.kt" />
+        <option value="$PROJECT_DIR$/src/SimpleForLoop.kt" />
       </list>
     </option>
   </component>
@@ -216,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.MakingDecisionExpressionKt">
+  <component name="RunManager" selected="Kotlin.SimpleForLoopKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -293,14 +292,14 @@
       <module name="KotlinUdemyDemo" />
       <envs />
     </configuration>
-    <configuration name="PrioritiesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleForLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PrioritiesKt" />
+      <option name="MAIN_CLASS_NAME" value="SimpleForLoopKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="KotlinUdemyDemo" />
       <envs />
@@ -358,19 +357,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.PrioritiesKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.IncrementAndDecrementKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.FindMyAgeKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.SimpleIfKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.MakingDecisionExpressionKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.IncrementAndDecrementKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.FindMyAgeKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.SimpleIfKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.MakingDecisionExpressionKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.SimpleForLoopKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.MakingDecisionExpressionKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.SimpleIfKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.FindMyAgeKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.IncrementAndDecrementKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.PrioritiesKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.SimpleForLoopKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.MakingDecisionExpressionKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.SimpleIfKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.FindMyAgeKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.IncrementAndDecrementKt" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +401,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -432,16 +431,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/IncrementAndDecrement.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Priorities.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -814,6 +803,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleForLoop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
