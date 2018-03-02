@@ -92,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassInheritance.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ClassInheritance.kt">
+      <file leaf-file-name="Overriding.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="522">
+              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -160,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/Constructor.kt" />
         <option value="$PROJECT_DIR$/src/Encapsulation.kt" />
         <option value="$PROJECT_DIR$/src/ClassInheritance.kt" />
+        <option value="$PROJECT_DIR$/src/Overriding.kt" />
       </list>
     </option>
   </component>
@@ -225,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassInheritanceKt">
+  <component name="RunManager" selected="Kotlin.OverridingKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -302,14 +303,14 @@
       <module name="KotlinUdemyDemo" />
       <envs />
     </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="OverridingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="OverridingKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="KotlinUdemyDemo" />
       <envs />
@@ -367,19 +368,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.FunctionsKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.FunctionOverloadKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.SimpleClassKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.ConstructorKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.ClassInheritanceKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.FunctionOverloadKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.SimpleClassKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.ConstructorKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.ClassInheritanceKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.OverridingKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.ClassInheritanceKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.ConstructorKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.SimpleClassKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.FunctionOverloadKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.FunctionsKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.OverridingKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.ClassInheritanceKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.ConstructorKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.SimpleClassKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.FunctionOverloadKt" />
       </list>
     </recent_temporary>
   </component>
@@ -441,13 +442,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NullSafety.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Comments.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -763,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Constructor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Encapsulation.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -781,8 +767,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClassInheritance.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="540">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constructor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding />
         </state>
       </provider>
