@@ -26,7 +26,7 @@ fun main(args: Array<String>) {
     var div = op.division(12, 11)
     println("Div = $div")
 
-    var op2 = MultiOperation1()
+    var op2 = MultiOperation1() as Operations1
     sum = op2.sum(10, 15)
     println("Sum = $sum")
     div = op2.division(12, 11)
