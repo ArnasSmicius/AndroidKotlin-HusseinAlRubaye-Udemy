@@ -12,16 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kotlinCollections.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kotlinCollections.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Sets.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sets.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +92,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassInterface.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClassInterface.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ClassInterface.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleAbstract.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SimpleAbstract.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -172,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/ClassInheritance.kt" />
         <option value="$PROJECT_DIR$/src/Overriding.kt" />
         <option value="$PROJECT_DIR$/src/ClassInterface.kt" />
+        <option value="$PROJECT_DIR$/src/SimpleAbstract.kt" />
       </list>
     </option>
   </component>
@@ -453,13 +454,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ConvertDataType.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Operations.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -790,6 +784,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleAbstract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
